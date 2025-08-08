@@ -1,0 +1,26 @@
+.a {
+    background-color: #E6DAC4;
+}
+
+.fundo {
+    background-image: url("fundo.avif");
+}
+
+.b {
+    font-family: "Playwrite AU QLD", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.cut {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
